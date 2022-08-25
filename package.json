@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mikhailjlajom.github.io/My-portfolio/",
-  "name": "my-portfolio",
+  "homepage": "https://mikhailjlajom.github.io/portfolio-test-deploy/",
+  "name": "my-portfolio-test-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
