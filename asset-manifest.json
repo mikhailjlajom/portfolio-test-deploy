@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-test-deploy/static/css/main.fda9ac0d.css",
+    "main.js": "/portfolio-test-deploy/static/js/main.c3f3ee6f.js",
+    "index.html": "/portfolio-test-deploy/index.html",
+    "main.fda9ac0d.css.map": "/portfolio-test-deploy/static/css/main.fda9ac0d.css.map",
+    "main.c3f3ee6f.js.map": "/portfolio-test-deploy/static/js/main.c3f3ee6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda9ac0d.css",
+    "static/js/main.c3f3ee6f.js"
+  ]
+}
