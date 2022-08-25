@@ -1,6 +1,8 @@
 import "./intro.scss"
 import Typewriter from 'typewriter-effect';
 
+
+
 export default function Intro() {
 
 
